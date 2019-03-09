@@ -455,9 +455,6 @@ github.com/micro/go-api v0.7.0/go.mod h1:8PL/Y8+JbNShOBaFWRXUPjEC7jriT/ctXgP+hQ6
 github.com/micro/go-bot v0.1.0/go.mod h1:wodQnZJedhANtriMfhCJa07WK6UnZE2QFNNRlmL3NoI=
 github.com/micro/go-config v0.13.3/go.mod h1:fVecLls1kW+EJsrlkJYqUmVoJa1epSHhsPMDXppELx0=
 github.com/micro/go-config v0.14.0/go.mod h1:ijvLjvxxfDdlH5vO36ZBrzMVGpiGysuwFotX9F84cag=
-github.com/micro/go-grpc v0.9.0/go.mod h1:0oVU9jFs55Pcu4J5+ZI9c4MKgQBm0UWWSiPZyUdQPJo=
-github.com/micro/go-grpc v1.0.0 h1:FaNw95w78NAmETSbteJMkVrHd3F5LcZrslJ3FxAUV+Y=
-github.com/micro/go-grpc v1.0.0/go.mod h1:G5jb/FchX5B0fSZc417Y+dXFsDjtGStsQOgIG7eQcj8=
 github.com/micro/go-log v0.1.0/go.mod h1:qaFBF6d6Jk01Gz4cbMkCA2vVuLk3FSaLLjmEGrMCreA=
 github.com/micro/go-micro v0.23.0/go.mod h1:3z3lfMkNU9Sr1L/CxL++8pVJmQapRo0N6kNjwYDtOVs=
 github.com/micro/go-micro v0.24.0/go.mod h1:G/2AWGXaoz2RoiT8xNNzE9Jn46MAI3GiRvSw6QsCDwI=
@@ -772,7 +769,6 @@ golang.org/x/net v0.0.0-20181220203305-927f97764cc3/go.mod h1:mL1N/T3taQHkDXs73r
 golang.org/x/net v0.0.0-20190108225652-1e06a53dbb7e/go.mod h1:mL1N/T3taQHkDXs73rZJwtUhF3w3ftmwwsq0BUmARs4=
 golang.org/x/net v0.0.0-20190119204137-ed066c81e75e/go.mod h1:mL1N/T3taQHkDXs73rZJwtUhF3w3ftmwwsq0BUmARs4=
 golang.org/x/net v0.0.0-20190125091013-d26f9f9a57f3/go.mod h1:mL1N/T3taQHkDXs73rZJwtUhF3w3ftmwwsq0BUmARs4=
-golang.org/x/net v0.0.0-20190206173232-65e2d4e15006/go.mod h1:mL1N/T3taQHkDXs73rZJwtUhF3w3ftmwwsq0BUmARs4=
 golang.org/x/net v0.0.0-20190213061140-3a22650c66bd/go.mod h1:mL1N/T3taQHkDXs73rZJwtUhF3w3ftmwwsq0BUmARs4=
 golang.org/x/net v0.0.0-20190301231341-16b79f2e4e95 h1:fY7Dsw114eJN4boqzVSbpVHO6rTdhq6/GnXeu+PKnzU=
 golang.org/x/net v0.0.0-20190301231341-16b79f2e4e95/go.mod h1:mL1N/T3taQHkDXs73rZJwtUhF3w3ftmwwsq0BUmARs4=

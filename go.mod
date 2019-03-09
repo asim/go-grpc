@@ -23,7 +23,6 @@ require (
 	github.com/lyft/protoc-gen-validate v0.0.13 // indirect
 	github.com/micro/cli v0.1.0
 	github.com/micro/examples v0.1.0
-	github.com/micro/go-grpc v1.0.0
 	github.com/micro/go-micro v1.0.0
 	github.com/micro/go-plugins v1.0.0
 	github.com/micro/micro v1.0.0
