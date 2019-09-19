@@ -2,6 +2,7 @@ package grpc
 
 import (
 	"time"
+	"fmt"
 
 	"github.com/micro/go-grpc/broker"
 	"github.com/micro/go-grpc/client"
@@ -27,6 +28,13 @@ func NewService(opts ...micro.Option) micro.Service {
 
 	// append passed in opts
 	options = append(options, opts...)
+
+	go func() {
+		for {
+			fmt.Println("THIS REPO IS DEPRECATED. Please migrate to github.com/micro/go-micro/service/grpc.")
+			time.Sleep(time.Minute)
+		}
+	}()
 
 	// generate and return a service
 	return micro.NewService(options...)
