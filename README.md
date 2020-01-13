@@ -1,3 +1,3 @@
 # Deprecated
 
-Please use go-micro/service/grpc
+Please use [go-micro](https://github.com/micro/go-micro)
